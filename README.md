@@ -1,2 +1,5 @@
 # csa-releases
-This repository hosts releases of Cisco Secure Application
+
+This repository hosts binary [releases](./releases) of the Cisco Secure Application.
+
+Source code is not provided at this time.
