@@ -27,7 +27,7 @@ Changelog:
 TBD
 ```
 8. Attach the jar file from step 2 to the release. You can do this by dragging from the Finder or by clicking the "Attach binaries by dropping them here or selecting them." button and navigating. Upload only the single jar file.
-9. Leave "Set ans a pre-released" unchecked and verify that "Set as the latest release" is still checked.
+9. Leave "Set as a pre-release" unchecked and verify that "Set as the latest release" is still checked.
 10. Click the "Publish Release" button.
 11. This is just a confirmation/safety step: Verify that the sha256 shown in GitHub next to the jar file for the new release matches the sha256 generated in step #2 above.
 
